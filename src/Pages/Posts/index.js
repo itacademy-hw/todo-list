@@ -4,7 +4,6 @@ export default class Posts extends Component {
 
     state = {
         posts: [],
-        name: 'asd'
     };
 
     async componentWillMount(){
